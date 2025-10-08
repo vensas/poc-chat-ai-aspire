@@ -157,7 +157,7 @@ The AI assistant acts as a **sales analyst** providing data-driven insights and 
 - **PostgreSQL** - Database with automatic seeding
 - **SemanticKernel** - AI orchestration and function calling
 - **Ollama** - Local LLM hosting (qwen3:1.7b model) with enhanced startup
-- **OllamaApiFacade** - Excellent NuGet package by [Gregor Biswanger](https://github.com/biegehydra/OllamaApiFacade) for OpenAI-compatible Ollama integration
+- **OllamaApiFacade** - Excellent NuGet package by [Gregor Biswanger](https://github.com/GregorBiswanger) for OpenAI-compatible Ollama integration
 - **.NET Aspire** - Cloud-ready orchestration with universal container support
 - **Open-WebUI** - Chat interface (connects via API facade)
 - **Scalar** - Interactive API documentation
